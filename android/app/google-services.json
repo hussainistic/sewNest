@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842144675590",
+    "project_id": "sew-nest",
+    "storage_bucket": "sew-nest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842144675590:android:86204f7f1999b598435087",
+        "android_client_info": {
+          "package_name": "com.SewNest.sewnest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLr7F9SKqvRpIGjn1tOwrju865uVnwe4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

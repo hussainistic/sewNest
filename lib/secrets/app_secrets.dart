@@ -1,0 +1,4 @@
+class AppSecrets {
+  static const String publishableKey = "pk_test_51KJ0hAIzPfJsPlnI8Aipx7UHgM2FyFV6OmTsGWz4xUZwhxFLC4X80GNKogH9hIGu0GFTDz4zMjgSTTL0zkySZ91h00UXhoYnw6";
+  static const String secretKey = "sk_test_51KJ0hAIzPfJsPlnIZgnVgKJaevE58i2jWa7Fp9wU49xIIMCcMEg9fhRATihGI88273YgWMSoQsHm1QZ1sjwInWVE00e8eTzvkI";
+}
